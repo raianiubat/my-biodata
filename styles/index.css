@@ -1,0 +1,28 @@
+h1{
+    color: rgba(9, 33, 105, 0.932);
+}
+table,th,td{
+    border: 1px solid black;
+    margin: 15px;
+}
+table{
+    width:75%;
+    border-collapse: collapse;
+}
+.html{
+    text-align: center;
+}
+.css{
+    text-align: left;
+}
+.git{
+    background-color: grey;
+}
+.js{
+    width:75%;
+}
+img{
+    float: right;
+    width:20%;
+    height:300px;
+}
